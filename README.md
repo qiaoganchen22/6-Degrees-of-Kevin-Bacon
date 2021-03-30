@@ -13,7 +13,7 @@ from vto every vertex that is connected to it.The signature of the function shou
 map<int, int> breath-first-search(int v);
 
 # TASK 2. 
-Add amember function to LabeledGraphthat, giventhe parent map,itwill return the path (from the source vertexfor which the parent map was built)to a 
+Add a member function to LabeledGraphthat, given the parent map,it will return the path (from the source vertexfor which the parent map was built)to a 
 specific target vertex. The signature of the function should be:
 vector<int> pathTo(map<int, int> & parent_map, int target);
 
