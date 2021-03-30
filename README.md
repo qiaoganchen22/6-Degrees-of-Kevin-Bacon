@@ -44,13 +44,13 @@ querying paths from a source vertex (e.g. “Kevin Bacon”) to any other vertex
 and then it should repeatedly ask for a target vertex until the user decides to exit the program.A sample session is shown below. Notice that the input 
 filesprovidedhave the names in a different format,soyou have to either enter the names as formatted on the fileor convert the user input to that format:
 
-Enter source vertex: Chris Pratt
-All (shortest) paths from Chris Pratt to other vertices have been created.
-Enter a target vertex and I will display the shortestpath from Chris Pratt to that vertex(-1 to exit): Sam Worthington
-ShortestPath from Chris Prattto Sam Worthington:
-Chris Pratt --> Guardians of the Galaxy --> Zoe Saldana --> Avatar --> Sam Worthington
-Enter a target vertex and I will display the shortestpath from Chris Pratt to that vertex(-1 to exit): Zoe Saldana
-ShortestPath from Chris Prattto Zoe Saldana:
-Chris Pratt --> Guardians of the Galaxy --> Zoe Saldana
-Enter a target vertex and I will display the shortestpath from Chris Pratt to that vertex(-1 to exit): -1
-Goodbye.
+* Enter source vertex: Chris Pratt
+* All (shortest) paths from Chris Pratt to other vertices have been created.
+* Enter a target vertex and I will display the shortestpath from Chris Pratt to that vertex(-1 to exit): Sam Worthington
+* ShortestPath from Chris Prattto Sam Worthington:
+* Chris Pratt --> Guardians of the Galaxy --> Zoe Saldana --> Avatar --> Sam Worthington
+* Enter a target vertex and I will display the shortestpath from Chris Pratt to that vertex(-1 to exit): Zoe Saldana
+* ShortestPath from Chris Prattto Zoe Saldana:
+* Chris Pratt --> Guardians of the Galaxy --> Zoe Saldana
+* Enter a target vertex and I will display the shortestpath from Chris Pratt to that vertex(-1 to exit): -1
+* Goodbye.
