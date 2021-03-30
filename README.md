@@ -1,3 +1,18 @@
+
+## Introduction
+In this project you will build a variation of the Hollywood Graph in which vertices are actors
+and edges connect actors that have appeared in a movie together. You will build a graph
+with movies and actors as vertices and edges connecting each movie to its actors. For
+example:
+
+![Kevin Bacon Graph](https://introcs.cs.princeton.edu/java/45graph/images/movie-performer.png)
+
+You will use the graph to query paths between a pair of actors or between a pair of
+movies, or an actor and a movie, to see how they are connected (if at all). This
+functionality will allow you to play the Six Degrees of Kevin Bacon Game, which was
+popular on college campuses about a decade ago. The game is based on the ideas of six
+degrees of separation and the small-world experiment.
+
 ## The Kevin Bacon Game
 
 Querying the actors in a movie is not much more than returning the corresponding line in the input file. Querying the list of movies in which an actor has appeared 
