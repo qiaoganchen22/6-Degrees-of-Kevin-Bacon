@@ -13,6 +13,12 @@ functionality will allow you to play the Six Degrees of Kevin Bacon Game, which 
 popular on college campuses about a decade ago. The game is based on the ideas of six
 degrees of separation and the small-world experiment.
 
+Six degrees of separation is the idea that all living things and everything else in the world are six or fewer steps away from each
+other so that a chain of "a friend of a friend" statements can be made to connect any two people in a maximum of six steps.
+
+The goal of the Six Degrees of Kevin Bacon Game is to try to find the fewest number ofconnections to link any other actor with 
+Kevin Bacon. It was discovered that you could connect Kevin Bacon with just about any other actor in 6 steps or so.
+
 ## The Kevin Bacon Game
 
 Querying the actors in a movie is not much more than returning the corresponding line in the input file. Querying the list of movies in which an actor has appeared 
